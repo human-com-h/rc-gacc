@@ -1,0 +1,2 @@
+{"record_id":"museum-1","group_id":"museum","method":"Safe","ratio":0.2,"prompt":"P0","cap":128,"strict":true,"screen_positive":true,"source_complete":true,"target_value_correct":true,"substantive_error":false}
+{"record_id":"museum-2","group_id":"museum","method":"Safe","ratio":0.2,"prompt":"P0","cap":128,"strict":null,"screen_positive":false,"source_complete":null,"target_value_correct":null,"substantive_error":null}

@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://huggingface.co/Xenova/bge-small-en-v1.5/resolve/ea104dacec62c0de699686887e3f920caeb4f3e3/config.json",
+    "path": "models/bge-small-int8/config.json",
+    "bytes": 683,
+    "sha256": "fa73f90bf92c8cace1fbcb709626306f2bdbc9ea3e5b5f94b440df9b6aa56350"
+  },
+  {
+    "url": "https://huggingface.co/Xenova/bge-small-en-v1.5/resolve/ea104dacec62c0de699686887e3f920caeb4f3e3/tokenizer.json",
+    "path": "models/bge-small-int8/tokenizer.json",
+    "bytes": 711396,
+    "sha256": "d241a60d5e8f04cc1b2b3e9ef7a4921b27bf526d9f6050ab90f9267a1f9e5c66"
+  },
+  {
+    "url": "https://huggingface.co/Xenova/bge-small-en-v1.5/resolve/ea104dacec62c0de699686887e3f920caeb4f3e3/tokenizer_config.json",
+    "path": "models/bge-small-int8/tokenizer_config.json",
+    "bytes": 366,
+    "sha256": "9261e7d79b44c8195c1cada2b453e55b00aeb81e907a6664974b4d7776172ab3"
+  },
+  {
+    "url": "https://huggingface.co/Xenova/bge-small-en-v1.5/resolve/ea104dacec62c0de699686887e3f920caeb4f3e3/onnx/model_quantized.onnx",
+    "path": "models/bge-small-int8/onnx/model_quantized.onnx",
+    "bytes": 34014426,
+    "sha256": "6c9c6101a956d62dfb5e7190c538226c0c5bb9cb27b651234b6df063ee7dbfe4"
+  },
+  {
+    "url": "https://huggingface.co/Xenova/nli-deberta-v3-small/resolve/6bc2a55c7c0f7e2bc68de60bb248e523e2612abb/config.json",
+    "path": "models/nli-deberta-small-int8/config.json",
+    "bytes": 1037,
+    "sha256": "95300a238aaea78dfa0b100a3b53bf8bc233da8e7f3da54dc077135340d76b4f"
+  },
+  {
+    "url": "https://huggingface.co/Xenova/nli-deberta-v3-small/resolve/6bc2a55c7c0f7e2bc68de60bb248e523e2612abb/tokenizer.json",
+    "path": "models/nli-deberta-small-int8/tokenizer.json",
+    "bytes": 8656551,
+    "sha256": "a86f883318afa11c8c10466f1bf4efaeb6ded28a52cbe57217a8fa0d0a2a87df"
+  },
+  {
+    "url": "https://huggingface.co/Xenova/nli-deberta-v3-small/resolve/6bc2a55c7c0f7e2bc68de60bb248e523e2612abb/tokenizer_config.json",
+    "path": "models/nli-deberta-small-int8/tokenizer_config.json",
+    "bytes": 384,
+    "sha256": "d8d3bb123b99317634d5ee3d1d2d8b2ddb01510a0654687fc2639a5347a7291f"
+  },
+  {
+    "url": "https://huggingface.co/Xenova/nli-deberta-v3-small/resolve/6bc2a55c7c0f7e2bc68de60bb248e523e2612abb/onnx/model_quantized.onnx",
+    "path": "models/nli-deberta-small-int8/onnx/model_quantized.onnx",
+    "bytes": 172440643,
+    "sha256": "4edae6adf6ef735d3983a052113e8a235da2e9ac6a6cadf33f3fc088117e6051"
+  }
+]

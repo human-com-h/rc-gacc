@@ -1,0 +1,137 @@
+{
+  "rc_gacc/anchor_satellite.py": {
+    "source": "rc_gacc/anchor_satellite.py",
+    "sha256": "889b649dea9e2ea521f0db7fa2741046d5a8369f78f396506cb81ca7104ab51a",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/deterministic_encoding.py": {
+    "source": "rc_gacc/deterministic_encoding.py",
+    "sha256": "0e8d59c0049cdd7bc8bc9cc46bb45f42b302a73c52c4f6b2b8c849c803ca12ae",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/features.py": {
+    "source": "rc_gacc/features.py",
+    "sha256": "0ee83475bb093864e2f7dab09eaa3d5e664bee1f7a516d3509e97b218b61ea29",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/learned_selector.py": {
+    "source": "rc_gacc/learned_selector.py",
+    "sha256": "057be4b460c30d29f7be1f8594a4b44b4dd73871f0ea2f1d6437a80b3d43f9e5",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/nli.py": {
+    "source": "rc_gacc/nli.py",
+    "sha256": "3ab7e51e7a79a289fc5c4bb3a752c4ce3c0bf3558755a5acc1b3fe72a941aa52",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/offline_cache.py": {
+    "source": "rc_gacc/offline_cache.py",
+    "sha256": "3a02b3b12cc594a592910e6707b10a8c343be1aefe7021c3ab24d8d262208bec",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/registry.py": {
+    "source": "rc_gacc/registry.py",
+    "sha256": "d50b0849b316298b5eeaf19cb08a22ce9554fa07c085288586f9dd9fe1d25370",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/scg_scorer.py": {
+    "source": "rc_gacc/scg_scorer.py",
+    "sha256": "2f021cb1b7d575ac5653868a3dffcaac73d6a0652954019037b57feb5093be2d",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/selector.py": {
+    "source": "rc_gacc/selector.py",
+    "sha256": "c682382deb8ac88586097b26c4f7c583baa348afa5205fba7b0c0d4e44f7a2f5",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/stage2_models.py": {
+    "source": "rc_gacc/stage2_models.py",
+    "sha256": "bf7450aed6b4f9bb7224375b418006d67fcfbbf12cd4217aae5418c3e8457c5a",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/stage3_model.py": {
+    "source": "rc_gacc/stage3_model.py",
+    "sha256": "274f8d151eddcb2d72258b9f1d1c369f721abad1e84e298be969478804273809",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/stage3_views.py": {
+    "source": "rc_gacc/stage3_views.py",
+    "sha256": "d52573becdb12a5c80e7ea328ce76206797817e738a6c359e998ea9707913a77",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/stage4_selection.py": {
+    "source": "rc_gacc/stage4_selection.py",
+    "sha256": "49ef73e29432c59526965b8a2b9e2b99de4ac027d38790892f5001df93c8b3c2",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/scope_retention.py": {
+    "source": "rc_gacc/scope_retention.py",
+    "sha256": "dbe86293c267d6009ed72c9a326113fe226934f2cd3a50f8b0aaf87ed474cedf",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/reader_metrics.py": {
+    "source": "rc_gacc/reader_metrics.py",
+    "sha256": "ef08e7507a0312ddd968ee634cd6ee59ecd6d6d2b4e863035a7735650e33e977",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/qa_judging.py": {
+    "source": "rc_gacc/qa_judging.py",
+    "sha256": "4fe3975d27df20ab14f743f4edb048e2506ed50377b571992d08cb69cba8d1db",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/frozen_views.py": {
+    "source": "rc_gacc/frozen_views.py",
+    "sha256": "c77af9a407a8c613a6fd4a064a3db1e8334f01cdd353799bd28edc3697e6f95e",
+    "adaptation": "portable cache path and UTF-8 manifest read"
+  },
+  "rc_gacc/stage2_selection.py": {
+    "source": "rc_gacc/stage2_selection.py",
+    "sha256": "36c36a562886dd98bbe7ad323327541dc33b1b0b6447c3622e7888b163792489",
+    "adaptation": "original function bodies: utility, candidates"
+  },
+  "rc_gacc/stage3_decision.py": {
+    "source": "rc_gacc/stage3_decision.py",
+    "sha256": "365de10c2b5ed2b33733345e81bf906cf2523b288a3b88d611e61f5190a16eb5",
+    "adaptation": "original function bodies: source_certificate, scored, render, additive_select, decide"
+  },
+  "rc_gacc/stage4_decision.py": {
+    "source": "rc_gacc/stage4_decision.py",
+    "sha256": "2ea9339879bda0995d206e81743aec8fcb378c4ce248332d447aee47c4b0b067",
+    "adaptation": "original function bodies: apply"
+  },
+  "rc_gacc/phase1.py": {
+    "source": "rc_gacc/phase1.py",
+    "sha256": "6795c6e723ef1c667668e08f41fcbd0231f557ed4855327b3cc9e2abacb1d763",
+    "adaptation": "original function bodies: atomic_json, inline_render"
+  },
+  "rc_gacc/candidates.py": {
+    "source": "00_pilot_prototype.py",
+    "sha256": "834c5fbb2faf849cf7852e68ab37200bf8192c74baa73ea86564a546a4e3e512",
+    "adaptation": "original function bodies: count, words, chunks, make_units, lexical_prune, extract_edges"
+  },
+  "rc_gacc/workpoints.py": {
+    "source": "rc_gacc/phase3_frozen_benchmark.py",
+    "sha256": "ed105647b016e6e5198547e595bf125d5fbcb74d1479c7c0f87e5cc2c3a4c856",
+    "adaptation": "original function bodies: parent_out, binding_after, bm25"
+  },
+  "rc_gacc/guard.py": {
+    "source": "scripts/summarize_phase2_stage6.py",
+    "sha256": "992fd12835dd6d3aee8d9d7ac90b767c82780c21d2f5421faad3a9fb5124b019",
+    "adaptation": "original function bodies: guarded"
+  },
+  "rc_gacc/__init__.py": {
+    "source": "rc_gacc/__init__.py",
+    "sha256": "3bbcb0378b3e4780cdab5ba0620d8670602e9c01faddd94db6599b657c56f2d8",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/epistemic_interface.py": {
+    "source": "rc_gacc/epistemic_interface.py",
+    "sha256": "989b0fc140bb971254baade4a144dbdba85647b4dc777a24235db603c06df49e",
+    "adaptation": "byte-preserved"
+  },
+  "rc_gacc/gacc_closeout.py": {
+    "source": "rc_gacc/gacc_closeout.py",
+    "sha256": "6428cb147b30ce681f9a08bfeafd00444cd07f57da69dc356fcd7f52051188c0",
+    "adaptation": "byte-preserved"
+  }
+}

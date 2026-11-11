@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the RC-GACC software version you used."
+type: software
+title: "RC-GACC: Preserving Typed Evidence Relations under Hard Context Budgets"
+authors:
+  - name: "RC-GACC contributors"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/human-com-h/rc-gacc-code"
